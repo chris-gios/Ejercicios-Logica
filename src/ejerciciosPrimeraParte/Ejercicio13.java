@@ -1,12 +1,11 @@
-/**
- * Introducir dos números por teclado. Imprimir los números naturales que hay entre ambos números empezando por 
- * el más pequeño, contar cuantos hay y cuántos de ellos son pares. Calcular la suma de los impares.
- */
-
 package ejerciciosPrimeraParte;
 
 import java.util.Scanner;
 
+/**
+ * Introducir dos números por teclado. Imprimir los números naturales que hay entre ambos números empezando por
+ * el más pequeño, contar cuantos hay y cuántos de ellos son pares. Calcular la suma de los impares.
+ */
 public class Ejercicio13 {
 	
 	public static void main(String[] args) {

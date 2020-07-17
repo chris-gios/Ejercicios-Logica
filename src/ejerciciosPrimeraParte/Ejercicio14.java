@@ -1,9 +1,8 @@
+package ejerciciosPrimeraParte;
+
 /**
  * Imprimir diez veces la serie de números del 1 al 10.
  */
-
-package ejerciciosPrimeraParte;
-
 public class Ejercicio14 {
 	
 	public static void main(String[] args) {

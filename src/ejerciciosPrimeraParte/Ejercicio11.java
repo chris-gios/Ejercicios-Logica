@@ -1,10 +1,9 @@
-/**
- * Imprima los números del 1 al 100. Que calcule la suma de todos los números pares por un lado, 
- * y por otro, la de todos los impares.
- */
-
 package ejerciciosPrimeraParte;
 
+/**
+ * Imprima los números del 1 al 100. Que calcule la suma de todos los números pares por un lado,
+ * y por otro, la de todos los impares.
+ */
 public class Ejercicio11 {
 	
 	public static void main(String[] args) {

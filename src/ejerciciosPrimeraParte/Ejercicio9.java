@@ -1,11 +1,10 @@
-/**
- * Introducir un número por teclado. Que nos diga si es positivo o negativo.
- */
-
 package ejerciciosPrimeraParte;
 
 import java.util.Scanner;
 
+/**
+ * Introducir un número por teclado. Que nos diga si es positivo o negativo.
+ */
 public class Ejercicio9 {
 	
 	public static void main(String[] args) {

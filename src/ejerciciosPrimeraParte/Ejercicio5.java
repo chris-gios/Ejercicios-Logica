@@ -1,9 +1,8 @@
+package ejerciciosPrimeraParte;
+
 /**
  * Imprima los números impares hasta el 100 y que imprima cuantos impares hay.
  */
-
-package ejerciciosPrimeraParte;
-
 public class Ejercicio5 {
 	
 	public static void main(String[] args) {

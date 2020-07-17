@@ -1,9 +1,8 @@
+package ejerciciosPrimeraParte;
+
 /**
  * Introducir tantas frases como queramos y contarlas.
  */
-
-package ejerciciosPrimeraParte;
-
 import java.util.Scanner;
 
 public class Ejercicio7 {

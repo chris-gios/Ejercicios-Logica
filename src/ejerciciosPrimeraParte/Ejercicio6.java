@@ -1,9 +1,8 @@
+package ejerciciosPrimeraParte;
+
 /**
  * Imprima todos los números naturales que hay desde la unidad hasta un número que introducimos por teclado
  */
-
-package ejerciciosPrimeraParte;
-
 import java.util.Scanner;
 
 public class Ejercicio6 {

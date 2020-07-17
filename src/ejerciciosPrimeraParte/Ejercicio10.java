@@ -1,10 +1,10 @@
-/**
- * Introducir un número por teclado. Que nos diga si es par o impar.
- */
-
 package ejerciciosPrimeraParte;
 
 import java.util.Scanner;
+
+/**
+ * Introducir un número por teclado. Que nos diga si es par o impar.
+ */
 
 public class Ejercicio10 {
 	

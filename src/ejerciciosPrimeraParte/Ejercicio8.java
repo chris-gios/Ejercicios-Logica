@@ -1,11 +1,10 @@
-/**
- * Hacer un pseudocódigo que solo nos permita introducir S o N.
- */
-
 package ejerciciosPrimeraParte;
 
 import java.util.Scanner;
 
+/**
+ * Hacer un pseudocódigo que solo nos permita introducir S o N.
+ */
 public class Ejercicio8 {
 	
 	/**

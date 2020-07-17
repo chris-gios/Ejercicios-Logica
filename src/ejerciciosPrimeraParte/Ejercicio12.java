@@ -1,11 +1,10 @@
-/**
- * Imprima el mayor y el menor de una serie de cinco números que vamos introduciendo por teclado.
- */
-
 package ejerciciosPrimeraParte;
 
 import java.util.Scanner;
 
+/**
+ * Imprima el mayor y el menor de una serie de cinco números que vamos introduciendo por teclado.
+ */
 public class Ejercicio12 {
 	
 	public static void main(String[] args) {

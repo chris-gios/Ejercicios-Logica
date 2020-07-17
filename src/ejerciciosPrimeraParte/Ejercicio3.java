@@ -1,9 +1,8 @@
+package ejerciciosPrimeraParte;
+
 /**
  * Imprima los números pares entre 0 y 100
  */
-
-package ejerciciosPrimeraParte;
-
 public class Ejercicio3 {
 	
 	public static void main(String[] args) {
